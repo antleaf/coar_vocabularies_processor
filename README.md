@@ -1,2 +1,2 @@
-# coar_vocabularies_processor
+# COAR Vocabularies Processor
 Scripts for processing and publishing the COAR vocabularies
